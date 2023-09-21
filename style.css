@@ -1,0 +1,54 @@
+pre{
+    text-align: right;
+    font-size: 20px;
+}
+
+h4{
+    text-align: center;
+
+}
+
+h1{
+    text-align: center;
+}
+
+#index{
+    text-align: right;
+}
+
+body{
+    background-color: #E4F9F5;
+}
+
+.welcome{
+    text-align:center;
+    color:#11999E; 
+}
+
+a:link{
+    color: #11999E;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #11999E;
+}
+
+a:hover{
+    color: #11999E;
+    background-color: white;
+}
+
+#mountain{
+    text-align: center;
+}
+
+#cloud{
+    text-align: right;
+}
+
+#spans{
+    text-align: center;
+}
+
+
